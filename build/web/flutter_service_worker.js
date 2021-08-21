@@ -8,8 +8,8 @@ const RESOURCES = {
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/NOTICES": "7aa9dc80c5583cdd86c87b1a1ac1b05b",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"index.html": "8520a4560570744178c145ed5762b9b3",
-"/": "8520a4560570744178c145ed5762b9b3",
+"index.html": "34d5ba039702cffc441cfdc3602a2b04",
+"/": "34d5ba039702cffc441cfdc3602a2b04",
 "main.dart.js": "7ee248dbe54408007b2f402a5f8d6f7f",
 "manifest.json": "a5d08ad0a332b0a8a5373ef1a650173c",
 "version.json": "98f5457ea40286b31dfb8427503f343b"
